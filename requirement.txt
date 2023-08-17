@@ -1,0 +1,5 @@
+Pillow==8.2.0
+pytube==11.0.0
+opencv-python-headless==4.5.2.52
+streamlit==0.90.0
+ultralytics==1.0.4
